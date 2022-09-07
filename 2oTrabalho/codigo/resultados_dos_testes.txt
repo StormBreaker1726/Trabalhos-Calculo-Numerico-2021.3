@@ -1,0 +1,25 @@
+
+
+
+Resultados obtidos pelo método SOR com w = 1.0:
+Tempo de cálculo = 34.897862911224365 segundos
+k = 2767
+erro = 9.98754087491511e-08
+
+
+Resultados obtidos pelo método SOR com w = 1.95:
+Tempo de cálculo = 4.2137980461120605 segundos
+k = 297
+erro = 9.593724211350481e-08
+
+
+Resultados obtidos pelo método SOR com w = 1.99:
+Tempo de cálculo = 26.229732751846313 segundos
+k = 1437
+erro = 9.930190149084192e-08
+
+
+Resultados obtidos pelo método de Jacobi:
+Tempo de cálculo = 49.733428716659546 segundos
+k = 2767
+erro = 9.98754087491511e-08
